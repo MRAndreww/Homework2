@@ -106,7 +106,7 @@ public class Main {
         System.out.println("Всего работников в компании - " + personalTotal + " человек");
         var newPersonalTotal = personalTotal + 94;
         var newTotalTime = personalTime * newPersonalTotal;
-        System.out.println("Если в компании работает " + newPersonalTotal + " человек, то всего " + newTotalTime + " часов работы может быть поделено между сотрудниками" );
+        System.out.println("Если в компании работает " + newPersonalTotal + " человек, то всего " + newTotalTime + " часов работы может быть поделено между сотрудниками!" );
 
     }
 }
